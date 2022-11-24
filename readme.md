@@ -43,28 +43,28 @@ Also, you can check mine by running `npm run testObjectsSolutions`.
 
 ## Useful Resources
 
-- [Stack Overflow](https://www.educative.io/answers/how-to-quickly-filter-out-all-falsy-values-from-an-array-in-js)
-- [Stack Overflow](https://stackoverflow.com/questions/4215737/convert-array-to-object)
-- [Stack Overflow](https://stackoverflow.com/questions/33686942/javascript-filter-callback-that-uses-arguments)
-- [Stack Overflow](https://stackoverflow.com/questions/33274362/javascript-remove-multiple-values-from-array-using-filter-and-loop?lq=1)
-- [Stack Overflow](https://stackoverflow.com/questions/33686942/javascript-filter-callback-that-uses-arguments)
-- [Flexiple](https://flexiple.com/javascript/flatten-array-javascript/)
-- [FreeCodeCamp](https://www.freecodecamp.org/news/flatten-array-recursion/)
-- [Stack Overflow](https://stackoverflow.com/questions/68747765/what-is-a-proper-way-to-check-if-an-array-is-in-a-nested-array-javascript)
-- [Stack Overflow](https://stackoverflow.com/questions/27303369/flatten-array-of-multiple-nested-arrays-without-recursion-javascript)
-- [Stack Overflow](https://stackoverflow.com/questions/12433604/how-can-i-find-matching-values-in-two-arrays)
-- [Stack Overflow](https://stackoverflow.com/questions/10865025/merge-flatten-an-array-of-arrays)
-- [Stack Overflow](https://stackoverflow.com/questions/65787971/ways-to-determine-if-something-is-a-plain-object-in-javascript)
-- [Stack Overflow](https://stackoverflow.com/questions/6003884/how-do-i-check-for-null-values-in-javascript)
-- [Stack Overflow](https://stackoverflow.com/questions/22266826/how-can-i-do-a-shallow-comparison-of-the-properties-of-two-objects-with-javascri)
-- [Stack Overflow](https://stackoverflow.com/questions/359788/how-to-execute-a-javascript-function-when-i-have-its-name-as-a-string)
-- [SyncFusion](https://www.syncfusion.com/blogs/post/5-different-ways-to-deep-compare-javascript-objects.aspx)
-- [Samantha Ming](https://www.samanthaming.com/tidbits/94-how-to-check-if-object-is-empty/)
-- [Stack Overflow](https://stackoverflow.com/questions/54643055/how-to-check-if-object-is-empty-in-javascript-for-all-levels-in-object)
-- [Stack Overflow](https://stackoverflow.com/questions/34392741/best-way-to-get-intersection-of-keys-of-two-objects)
-- [Stack Overflow](https://stackoverflow.com/questions/64747220/javascript-comparing-if-two-objects-share-one-same-key-value-pair)
-- [Stack Overflow](https://stackoverflow.com/questions/34899684/searching-for-matching-property-and-value-pairs-in-an-array-of-objects)
-- [Dmitri Pavlutin](https://dmitripavlutin.com/how-to-compare-objects-in-javascript/)
-- [Stack Overflow](https://stackoverflow.com/questions/68072892/check-if-javascript-object-has-nested-key-value-pairs)
-- [Stack Overflow](https://stackoverflow.com/questions/47062922/how-to-get-all-keys-with-values-from-nested-objects)
-- [Stack Overflow](https://stackoverflow.com/questions/56661694/get-all-the-keys-of-objects-within-another-object-with-property-value-that-match/56661906)
+- [Stack Overflow](https://www.educative.io/answers/how-to-quickly-filter-out-all-falsy-values-from-an-array-in-js) - filter falsy values from an array
+- [Stack Overflow](https://stackoverflow.com/questions/4215737/convert-array-to-object) - convert array to object
+- [Stack Overflow](https://stackoverflow.com/questions/33686942/javascript-filter-callback-that-uses-arguments) - filter callback with arguments
+- [Stack Overflow](https://stackoverflow.com/questions/33274362/javascript-remove-multiple-values-from-array-using-filter-and-loop?lq=1) - remove multiple values using filter and loop
+- [Stack Overflow](https://stackoverflow.com/questions/33686942/javascript-filter-callback-that-uses-arguments) - filter callback
+- [Flexiple](https://flexiple.com/javascript/flatten-array-javascript/) - flatten array 
+- [FreeCodeCamp](https://www.freecodecamp.org/news/flatten-array-recursion/) - flatten recursion
+- [Stack Overflow](https://stackoverflow.com/questions/68747765/what-is-a-proper-way-to-check-if-an-array-is-in-a-nested-array-javascript) - check for nested array
+- [Stack Overflow](https://stackoverflow.com/questions/27303369/flatten-array-of-multiple-nested-arrays-without-recursion-javascript) - flatten array of multiple nested arrays without recursion
+- [Stack Overflow](https://stackoverflow.com/questions/12433604/how-can-i-find-matching-values-in-two-arrays) - find matching values in 2 arrays
+- [Stack Overflow](https://stackoverflow.com/questions/10865025/merge-flatten-an-array-of-arrays) - merge array of arrays
+- [Stack Overflow](https://stackoverflow.com/questions/65787971/ways-to-determine-if-something-is-a-plain-object-in-javascript) - check for plain object
+- [Stack Overflow](https://stackoverflow.com/questions/6003884/how-do-i-check-for-null-values-in-javascript) - check for null
+- [Stack Overflow](https://stackoverflow.com/questions/22266826/how-can-i-do-a-shallow-comparison-of-the-properties-of-two-objects-with-javascri) - shallow comparison of 2 objects
+- [Stack Overflow](https://stackoverflow.com/questions/359788/how-to-execute-a-javascript-function-when-i-have-its-name-as-a-string) - execute function with its name as a string
+- [SyncFusion](https://www.syncfusion.com/blogs/post/5-different-ways-to-deep-compare-javascript-objects.aspx) - deep compare objects
+- [Samantha Ming](https://www.samanthaming.com/tidbits/94-how-to-check-if-object-is-empty/) - check if object is empty
+- [Stack Overflow](https://stackoverflow.com/questions/54643055/how-to-check-if-object-is-empty-in-javascript-for-all-levels-in-object) - deep empty
+- [Stack Overflow](https://stackoverflow.com/questions/34392741/best-way-to-get-intersection-of-keys-of-two-objects) - intersection of keys of 2 objects
+- [Stack Overflow](https://stackoverflow.com/questions/64747220/javascript-comparing-if-two-objects-share-one-same-key-value-pair) - comparing object key value pairs
+- [Stack Overflow](https://stackoverflow.com/questions/34899684/searching-for-matching-property-and-value-pairs-in-an-array-of-objects) - search for matching key value pairs
+- [Dmitri Pavlutin](https://dmitripavlutin.com/how-to-compare-objects-in-javascript/) - compare objects
+- [Stack Overflow](https://stackoverflow.com/questions/68072892/check-if-javascript-object-has-nested-key-value-pairs) - nested key value pairs
+- [Stack Overflow](https://stackoverflow.com/questions/47062922/how-to-get-all-keys-with-values-from-nested-objects) - get all keys with values from nested objects
+- [Stack Overflow](https://stackoverflow.com/questions/56661694/get-all-the-keys-of-objects-within-another-object-with-property-value-that-match/56661906) - get all the keys of objects within another object using key's value
